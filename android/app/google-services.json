@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "172486005214",
+    "project_id": "sparkle-wrench",
+    "storage_bucket": "sparkle-wrench.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172486005214:android:e57f3977eca0481a2f8d4f",
+        "android_client_info": {
+          "package_name": "com.example.sparkle_mechanic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172486005214-i23vfh6vthn2ehtum4tp2sc1mjnrpeaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3B7kTciunQXCWV_T24HoOxU6dcJ_reTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172486005214-i23vfh6vthn2ehtum4tp2sc1mjnrpeaj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "172486005214-ucg5g9m99s62h5bu07j3p1puen9bge9u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sparkleWrench"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172486005214:android:47a4984026842a042f8d4f",
+        "android_client_info": {
+          "package_name": "com.example.sparkle_wrench"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172486005214-i23vfh6vthn2ehtum4tp2sc1mjnrpeaj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3B7kTciunQXCWV_T24HoOxU6dcJ_reTQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172486005214-i23vfh6vthn2ehtum4tp2sc1mjnrpeaj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "172486005214-ucg5g9m99s62h5bu07j3p1puen9bge9u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sparkleWrench"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
